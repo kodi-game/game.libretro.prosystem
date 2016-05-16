@@ -8,11 +8,7 @@
 		<import addon="game.controller.nes" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="game.libretro.prosystem.so"
-                   library_linux="game.libretro.prosystem.so"
-                   library_osx="game.libretro.prosystem.dylib"
-                   library_windx="game.libretro.prosystem.dll"
-                   library_wingl="game.libretro.prosystem.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>7800</platforms>
 		<extensions>7800</extensions>
 		<supports_vfs>true</supports_vfs>
@@ -21,6 +17,6 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Prosystem v1.0.1</summary>
 		<description>Source: https://github.com/libretro/prosystem-libretro</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
