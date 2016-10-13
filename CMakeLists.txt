@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.prosystem)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(prosystem
                     BUILD_IN_SOURCE 1)
 
 set(PROSYSTEM_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/prosystem/src/prosystem/prosystem_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                            game.libretro.prosystem${CMAKE_SHARED_LIBRARY_SUFFIX} prosystem)
+                            game.libretro.prosystem${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.prosystem PROSYSTEM DEPLIBS)
-add_dependencies(game.libretro.prosystem prosystem)
-
-include(CPack)
+build_addon(${PROJECT_NAME} PROSYSTEM DEPLIBS)
+add_dependencies(${PROJECT_NAME} prosystem)
