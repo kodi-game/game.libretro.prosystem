@@ -18,9 +18,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Atari 7800 (ProSystem) 1.3e</summary>
-		<description>Source: https://github.com/libretro/prosystem-libretro
-
-Supported files: .a78, .bin</description>
+		<description>Supported files: .a78, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
