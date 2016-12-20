@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Atari 7800 (ProSystem) 1.3e e66f48f</summary>
+		<summary lang="en">Atari 7800 (ProSystem) 1.3e</summary>
 		<description>Supported files: .a78, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
