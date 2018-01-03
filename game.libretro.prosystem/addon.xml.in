@@ -17,7 +17,11 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Atari 7800 (ProSystem) 1.3e</summary>
-		<description>Supported files: .a78, .bin</description>
+		<description>ProSystem is an Atari 7800 emulator.
+
+Place &quot;7800 BIOS (U).rom&quot; (optional) in the emulator's userdata folder.
+
+Supported files: .a78, .bin</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
