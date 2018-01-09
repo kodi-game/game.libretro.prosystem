@@ -19,7 +19,7 @@
 		<summary lang="en">Atari 7800 (ProSystem) 1.3e</summary>
 		<description>ProSystem is an Atari 7800 emulator.
 
-Place &quot;7800 BIOS (U).rom&quot; (optional) in the emulator's userdata folder.
+Place &#34;7800 BIOS (U).rom&#34; (optional) in the emulator&#39;s userdata folder.
 
 Supported files: .a78, .bin</description>
 		<license>GPLv2</license>
