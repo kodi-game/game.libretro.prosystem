@@ -1,1 +1,1 @@
-prosystem https://github.com/libretro/prosystem-libretro/archive/a415cc52f764dbaefd05fbc492c54be700334370.zip
+prosystem https://github.com/libretro/prosystem-libretro/archive/d3c4796983d0758c7bb19249b3088f1973332d36.zip
