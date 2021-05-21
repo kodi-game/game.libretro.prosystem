@@ -25,13 +25,13 @@ msgid "Color Depth (Restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Dual Stick Controller"
-msgstr ""
-
-msgctxt "#30003"
 msgid "Audio Filter"
 msgstr ""
 
-msgctxt "#30004"
+msgctxt "#30003"
 msgid "Audio Filter Level"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Dual Stick Controller"
 msgstr ""
