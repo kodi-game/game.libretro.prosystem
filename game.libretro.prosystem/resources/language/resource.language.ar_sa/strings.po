@@ -17,6 +17,18 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Atari - 7800 (ProSystem) 1.3e"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "ProSystem is an Atari 7800 emulator.
+
+Place &#34;7800 BIOS (U).rom&#34; (optional) in the emulator&#39;s userdata folder.
+
+Supported files: .a78, .bin"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

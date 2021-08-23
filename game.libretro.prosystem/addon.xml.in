@@ -16,8 +16,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Atari - 7800 (ProSystem) 1.3e</summary>
-		<description lang="en_GB">ProSystem is an Atari 7800 emulator.
 
 Place &#34;7800 BIOS (U).rom&#34; (optional) in the emulator&#39;s userdata folder.
 
@@ -30,5 +28,11 @@ Supported files: .a78, .bin</description>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="en_GB">Atari - 7800 (ProSystem) 1.3e</summary>
+		<description lang="en_GB">ProSystem is an Atari 7800 emulator.
+
+Place &#34;7800 BIOS (U).rom&#34; (optional) in the emulator&#39;s userdata folder.
+
+Supported files: .a78, .bin</description>
 	</extension>
 </addon>
