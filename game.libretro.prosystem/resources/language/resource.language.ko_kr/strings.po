@@ -22,7 +22,7 @@ msgid "Atari - 7800 (ProSystem) 1.3e"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "ProSystem is an Atari 7800 emulator.[CR][CR]Place &#34;7800 BIOS (U).rom&#34; (optional) in the emulator&#39;s userdata folder."
+msgid "ProSystem is an Atari 7800 emulator.[CR][CR]Place \"7800 BIOS (U).rom\" (optional) in the emulator's userdata folder."
 msgstr ""
 
 msgctxt "#30000"
