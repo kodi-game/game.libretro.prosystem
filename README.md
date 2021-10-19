@@ -4,19 +4,25 @@
 # Atari - 7800 (ProSystem)
 
 ### Description
+
 ProSystem is an Atari 7800 emulator.
 
 Place "7800 BIOS (U).rom" (optional) in the emulator's userdata folder.
 
 ### License
+
 GPLv2
+
+### Icon
+
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
 
 ### Screenshots
 
 ![Screenshot](game.libretro.prosystem/resources/screenshot-01.jpg)
-
 ![Screenshot](game.libretro.prosystem/resources/screenshot-02.jpg)
-
 ![Screenshot](game.libretro.prosystem/resources/screenshot-03.jpg)
-
-
