@@ -7,7 +7,7 @@
 
 ProSystem is an Atari 7800 emulator.
 
-Place *7800 BIOS (U).rom* (optional) in the emulator&apos;s userdata folder.
+Place *7800 BIOS (U).rom* (optional) in the emulator's userdata folder.
 
 ### License
 
