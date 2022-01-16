@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.prosystem"
 		name="Atari - 7800 (ProSystem)"
-		version="1.3.0.26"
+		version="1.3.0.27"
 		provider-name="Greg Stanton, Brian Berlin, Leonis, Greg DeMent">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -27,6 +27,6 @@
 		</assets>
 		<summary lang="en_GB">Atari - 7800 (ProSystem) 1.3e</summary>
 		<description lang="da_DK">ProSystem er en Atari 7800-emulator.[CR][CR]Placer [I]7800 BIOS (U).rom[/I] (valgfrit) i emulatorens brugerdatamappe.</description>
-		<description lang="en_GB">ProSystem is an Atari 7800 emulator.[CR][CR]Place [I]7800 BIOS (U).rom[/I] (optional) in the emulator's userdata folder.</description>
+		<description lang="en_GB">ProSystem is an Atari 7800 emulator.[CR][CR]Place [I]7800 BIOS (U).rom[/I] (optional) in the emulator&#39;s userdata folder.</description>
 	</extension>
 </addon>
