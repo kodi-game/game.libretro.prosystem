@@ -15,7 +15,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.prosystem/resources/icon.png)
+![Atari - 7800 (ProSystem) icon](game.libretro.prosystem/resources/icon.png)
 
 ### Fanart
 
@@ -23,6 +23,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.prosystem/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.prosystem/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.prosystem/resources/screenshot-03.jpg)
+![Atari - 7800 (ProSystem) screenshot](game.libretro.prosystem/resources/screenshot-01.jpg)
+![Atari - 7800 (ProSystem) screenshot](game.libretro.prosystem/resources/screenshot-02.jpg)
+![Atari - 7800 (ProSystem) screenshot](game.libretro.prosystem/resources/screenshot-03.jpg)
