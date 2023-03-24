@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Atari - 7800 (ProSystem) 1.3e"
+msgid "Atari - 7800 (ProSystem)"
 msgstr ""
 
 msgctxt "Addon Description"
