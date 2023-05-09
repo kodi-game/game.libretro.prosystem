@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Atari - 7800 (ProSystem)</summary>
 		<summary lang="en_GB">Atari - 7800 (ProSystem)</summary>
 		<summary lang="es_ES">Atari - 7800 (ProSystem)</summary>
 		<description lang="da_DK">ProSystem er en Atari 7800-emulator.[CR][CR]Placer [I]7800 BIOS (U).rom[/I] (valgfrit) i emulatorens brugerdatamappe.</description>
