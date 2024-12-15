@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "ProSystem is an Atari 7800 emulator.[CR][CR]Place [I]7800 BIOS (U).rom[/I] (optional) in the emulator's userdata folder."
 msgstr "ProSystem es un emulador de Atari 7800.[CR][CR]Coloca [I]7800 BIOS (U).rom[/I] (opcional) en la carpeta userdata del emulador."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Color Depth (Restart)"
 msgstr "Profundidad de Color (Reiniciar)"
@@ -44,3 +40,7 @@ msgstr "Nivel de Filtro de Audio"
 msgctxt "#30004"
 msgid "Dual Stick Controller"
 msgstr "Mando Dual Stick"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"

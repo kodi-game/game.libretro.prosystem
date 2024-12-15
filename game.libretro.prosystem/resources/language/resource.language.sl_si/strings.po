@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "ProSystem is an Atari 7800 emulator.[CR][CR]Place [I]7800 BIOS (U).rom[/I] (optional) in the emulator's userdata folder."
 msgstr "ProSystem je emulator Atari 7800.[CR][CR]Postavite [I]7800 BIOS (U).rom[/I] (izbirno) v mapo uporabniških podatkov emulatorja."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Color Depth (Restart)"
 msgstr "Globina barve (ponovni zagon)"
@@ -44,3 +40,7 @@ msgstr "Raven zvočnega filtra"
 msgctxt "#30004"
 msgid "Dual Stick Controller"
 msgstr "Dual Stick krmilnik"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"
