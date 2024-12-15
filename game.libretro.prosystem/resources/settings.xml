@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="prosystem_color_depth" values="16bit|24bit" default="16bit"/>
 		<setting label="30002" type="select" id="prosystem_low_pass_filter" values="disabled|enabled" default="disabled"/>
 		<setting label="30003" type="select" id="prosystem_low_pass_range" values="60|5|10|15|20|25|30|35|40|45|50|55|65|70|75|80|85|90|95" default="60"/>
