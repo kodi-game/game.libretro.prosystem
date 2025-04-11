@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.prosystem\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-02 01:16i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-prosystem/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "ProSystem är en Atari 7800-emulator.[CR][CR]Placera [I]7800 BIOS (U).ro
 
 msgctxt "#30001"
 msgid "Color Depth (Restart)"
-msgstr ""
+msgstr "Färgdjup (omstart)"
 
 msgctxt "#30002"
 msgid "Audio Filter"
