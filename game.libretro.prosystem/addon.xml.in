@@ -27,6 +27,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Atari - 7800 (ProSystem)</summary>
 		<summary lang="da_DK">Atari - 7800 (ProSystem)</summary>
 		<summary lang="en_GB">Atari - 7800 (ProSystem)</summary>
 		<summary lang="es_ES">Atari - 7800 (ProSystem)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="ru_RU">Atari - 7800 (ProSystem)</summary>
 		<summary lang="sv_SE">Atari - 7800 (ProSystem)</summary>
 		<summary lang="zh_CN">雅达利 - 7800（ProSystem）</summary>
+		<description lang="cs_CZ">ProSystem je emulátor Atari 7800.[CR][CR]Umístěte soubor [I]7800 BIOS (U).rom[/I] (volitelný) do složky userdata emulátoru.</description>
 		<description lang="da_DK">ProSystem er en Atari 7800-emulator.[CR][CR]Placer [I]7800 BIOS (U).rom[/I] (valgfrit) i emulatorens brugerdatamappe.</description>
 		<description lang="de_DE">ProSystem ist ein Atari-7800-Emulator.[CR][CR][I]7800 BIOS (U).rom[/I] (optional) in den Userdata-Ordner des Emulators ablegen.</description>
 		<description lang="en_GB">ProSystem is an Atari 7800 emulator.[CR][CR]Place [I]7800 BIOS (U).rom[/I] (optional) in the emulator&apos;s userdata folder.</description>
