@@ -32,6 +32,7 @@
 		<summary lang="en_GB">Atari - 7800 (ProSystem)</summary>
 		<summary lang="es_ES">Atari - 7800 (ProSystem)</summary>
 		<summary lang="ga">Atari - 7800 (ProSystem)</summary>
+		<summary lang="it_IT">Atari - 7800 (ProSystem)</summary>
 		<summary lang="ru_RU">Atari - 7800 (ProSystem)</summary>
 		<summary lang="sv_SE">Atari - 7800 (ProSystem)</summary>
 		<summary lang="zh_CN">雅达利 - 7800（ProSystem）</summary>
@@ -41,6 +42,7 @@
 		<description lang="en_GB">ProSystem is an Atari 7800 emulator.[CR][CR]Place [I]7800 BIOS (U).rom[/I] (optional) in the emulator&apos;s userdata folder.</description>
 		<description lang="es_ES">ProSystem es un emulador de Atari 7800.[CR][CR]Coloca [I]7800 BIOS (U).rom[/I] (opcional) en la carpeta userdata del emulador.</description>
 		<description lang="ga">Is aithriseoir Atari 7800 é ProSystem.[CR][CR]Cuir [I]7800 BIOS (U).rom[/I] (roghnach) i bhfillteán sonraí úsáideora an aithriseora.</description>
+		<description lang="it_IT">ProSystem è un emulatore di Atari 7800. [CR][CR]Posiziona [I]7800 BIOS (U).rom[/I] (facoltativo) nella cartella userdata dell&apos;emulatore.</description>
 		<description lang="ru_RU">ProSystem — эмулятор Atari 7800.[CR][CR]Поместите [I]7800 BIOS (U).rom[/I] (необязательно) в папку пользовательских данных эмулятора.</description>
 		<description lang="sl_SI">ProSystem je emulator Atari 7800.[CR][CR]Postavite [I]7800 BIOS (U).rom[/I] (izbirno) v mapo uporabniških podatkov emulatorja.</description>
 		<description lang="sv_SE">ProSystem är en Atari 7800-emulator.[CR][CR]Placera [I]7800 BIOS (U).rom[/I] (valfritt) i emulatorns userdata-mapp.</description>
