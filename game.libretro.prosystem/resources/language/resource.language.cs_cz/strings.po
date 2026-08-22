@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.prosystem\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-05-02 01:16i\n"
-"PO-Revision-Date: 2026-07-06 08:12+0000\n"
+"PO-Revision-Date: 2026-08-22 23:26+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-prosystem/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "Addon Summary"
 msgid "Atari - 7800 (ProSystem)"
@@ -40,3 +40,115 @@ msgstr "Úroveň zvukového filtru"
 msgctxt "#30004"
 msgid "Dual Stick Controller"
 msgstr "Ovladač se dvěma joysticky"
+
+msgctxt "#30005"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#30006"
+msgid "Specifies number of colors to display on-screen. 24-bit may increase performance overheads on some platforms."
+msgstr "Určuje počet barev zobrazených na obrazovce. 24bitová barevná hloubka může na některých platformách zvýšit režii výkonu."
+
+msgctxt "#30007"
+msgid "Thousands (16-bit)"
+msgstr "Tisíce (16bitové)"
+
+msgctxt "#30008"
+msgid "Millions (24-bit)"
+msgstr "Miliony (24bitové)"
+
+msgctxt "#30009"
+msgid "Audio"
+msgstr "Zvuk"
+
+msgctxt "#30010"
+msgid "Enables a low pass audio filter to soften the 'harsh' sound produced by the Atari 7800's TIA chip."
+msgstr "Povoluje dolní propustný zvukový filtr, který zjemňuje „ostrý“ zvuk vytvářený čipem TIA konzole Atari 7800."
+
+msgctxt "#30011"
+msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
+msgstr "Určuje mezní frekvenci dolnopropustného zvukového filtru. Vyšší hodnota zvyšuje vnímanou „sílu“ filtru, protože se utlumí širší rozsah vysokofrekvenčního spektra."
+
+msgctxt "#30012"
+msgid "5%"
+msgstr "5 %"
+
+msgctxt "#30013"
+msgid "10%"
+msgstr "10 %"
+
+msgctxt "#30014"
+msgid "15%"
+msgstr "15 %"
+
+msgctxt "#30015"
+msgid "20%"
+msgstr "20 %"
+
+msgctxt "#30016"
+msgid "25%"
+msgstr "25 %"
+
+msgctxt "#30017"
+msgid "30%"
+msgstr "30 %"
+
+msgctxt "#30018"
+msgid "35%"
+msgstr "35 %"
+
+msgctxt "#30019"
+msgid "40%"
+msgstr "40 %"
+
+msgctxt "#30020"
+msgid "45%"
+msgstr "45 %"
+
+msgctxt "#30021"
+msgid "50%"
+msgstr "50 %"
+
+msgctxt "#30022"
+msgid "55%"
+msgstr "55 %"
+
+msgctxt "#30023"
+msgid "60%"
+msgstr "60 %"
+
+msgctxt "#30024"
+msgid "65%"
+msgstr "65 %"
+
+msgctxt "#30025"
+msgid "70%"
+msgstr "70 %"
+
+msgctxt "#30026"
+msgid "75%"
+msgstr "75 %"
+
+msgctxt "#30027"
+msgid "80%"
+msgstr "80 %"
+
+msgctxt "#30028"
+msgid "85%"
+msgstr "85 %"
+
+msgctxt "#30029"
+msgid "90%"
+msgstr "90 %"
+
+msgctxt "#30030"
+msgid "95%"
+msgstr "95 %"
+
+msgctxt "#30031"
+msgid "Input"
+msgstr "Vstup"
+
+msgctxt "#30032"
+msgid "Maps Player 2's joystick to the right analog stick of Player 1's RetroPad. Enables dual stick control in supported games (e.g. Robotron: 2084, T:ME Salvo)."
+msgstr "Přiřazuje joystick hráče 2 k pravé analogové páčce RetroPadu hráče 1. Umožňuje ovládání dvěma páčkami v podporovaných hrách (např. Robotron: 2084, T:ME Salvo)."
